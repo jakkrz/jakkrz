@@ -4,6 +4,6 @@ I'm Jakub Kranz and I'm a programmer who is still looking to explore more parts 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,ts,cpp,c,rust,sqlite,haskell,go,lua,neovim&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,ts,cpp,c,rust,sqlite,haskell,go,lua&perline=3" />
   </a>
 </p>
