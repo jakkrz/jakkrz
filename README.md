@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jakub Kranz and I'm a programmer who is still looking to explore more parts of this diverse field. HMU if you would like to collaborate on a project.
+Jakub Kranz. HMU if you would like to collaborate on a project.
 
 <p align="center">
   <a href="https://skillicons.dev">
