@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Jakub Kranz. HMU if you would like to collaborate on a project.
+Jakub Kranz. I like making stuff.
 
 <p align="center">
   <a href="https://skillicons.dev">
