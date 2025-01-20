@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Jakub Kranz. I like making stuff.
 
 <p align="center">
